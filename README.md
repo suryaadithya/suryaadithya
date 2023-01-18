@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Adithya</h1>
 <h3 align="center">A passionate Full Stack developer from Somewhere</h3>
 
-- 📫 How to reach me **adithya333@gmail.com**
+- 📫 How to reach me **adithyasurya333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
